@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/Asadbek-Sotvoldiyev/Asadbek-Sotvoldiyev/blob/main/logo.jpg?raw=true">
+
 <h1 align="left">Assalamu alaykum, I'm Muhammadjon Ibrohimov</h1>
 
 
