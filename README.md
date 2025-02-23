@@ -3,16 +3,20 @@
 <h3 align="center">A passionate Data Scientist and AI Engineer from Uzbekistan 🇺🇿</h3>
 
 <p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat"
-        alt="abdul-rozzaq" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img
+        src="https://komarev.com/ghpvc/?username=muhammadibrohimovDEV&label=Profile%20views&color=0e75b6&style=flat"
+        alt="muhammadibrohimovDEV" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img
             src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg"
             alt="Total time coded since Sep 2 2023" /></a></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rozzaq&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" /></a> </p>
 
 -I’m currently working on **None**
+
 -I’m currently learning **Data Science , Machine Learning , Golang , FLask and Django**
+
 -I’m looking to collaborate on **None** 
+
 -I’m looking for help with **None**
+
 -Ask me about **Data Science and Machine Learning  , Golang , Python , Django , Flask**
 
 - 📫 How to reach me **muhammadjon.dev.miu@mail.ru**
@@ -20,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.facebook.com/profile.php?id=61573013065843" target="blank"><img
-            src="https://static.vecteezy.com/system/resources/previews/042/127/197/non_2x/app-style-blue-facebook-logo-with-white-thick-border-and-long-shadow-on-a-transparent-background-free-png.png"
+            src="https://e7.pngegg.com/pngimages/991/568/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png"
             alt="rayyandev" height="30" width="40" /></a>
     <a href="https://dev.to/abdul-rozzaq" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
