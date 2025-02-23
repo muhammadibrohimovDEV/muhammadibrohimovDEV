@@ -6,8 +6,7 @@
         src="https://komarev.com/ghpvc/?username=muhammadibrohimovDEV&label=Profile%20views&color=0e75b6&style=flat"
         alt="muhammadibrohimovDEV" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img
             src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg"
-            alt="Total time coded since Sep 2 2023" /></a></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=onedark&margin-w=15&margin-h=15&column=5" alt="muhammadibrohimovDEV" /></a> </p>
+                                                                                                                              </p>
 
 -I’m currently working on **None**
 
