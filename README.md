@@ -7,7 +7,7 @@
         alt="muhammadibrohimovDEV" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img
             src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg"
             alt="Total time coded since Sep 2 2023" /></a></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=onedark&margin-w=15&margin-h=15&column=5" alt="muhammadibrohimovDEV" /></a> </p>
 
 -I’m currently working on **None**
 
@@ -105,9 +105,9 @@
 
 
 <div class="images" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; align-items: start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&show_icons=true&locale=en&layout=compact&theme=onedark"
-        alt="abdul-rozzaq" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rozzaq&theme=onedark" alt="abdul-rozzaq" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&locale=en&theme=onedark"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadibrohimovDEV&show_icons=true&locale=en&layout=compact&theme=onedark"
+        alt="muhammadibrohimovDEV" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=onedark" alt="abdul-rozzaq" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&locale=en&theme=onedark"
         alt="abdul-rozzaq" />
 </div>
