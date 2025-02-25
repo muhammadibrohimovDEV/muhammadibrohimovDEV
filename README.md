@@ -20,9 +20,9 @@
 
 
 <div class="images" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; align-items: start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadibrohimovDEV&show_icons=true&locale=en&layout=compact&theme=onedark"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadibrohimovDEV&show_icons=true&locale=en&layout=compact&theme=darkmodern"
         alt="muhammadibrohimovDEV" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=onedark" alt="abdul-rozzaq" />
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&locale=en&theme=onedark"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=darkmodern" alt="muhammadibrohimovDEV" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&locale=en&theme=darkmodern"
         alt="muhammadibrohimovDEV" />
 </div>
