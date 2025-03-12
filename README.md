@@ -1,5 +1,7 @@
 ### Hi there, I'm Muhammadjon Ibrohimov! 👋
 
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 🌍 **From:** Fergana, Uzbekistan  
 🎓 **Education:** Bachelor's in World Economy & International Relations @ IIAU  
 💻 **Tech Stack:** Python, Go, Flask, Django, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, HTML, CSS, Bootstrap
