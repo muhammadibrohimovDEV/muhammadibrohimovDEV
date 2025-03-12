@@ -67,12 +67,6 @@
 
 ---
 
-### 🔥 GitHub Skyline:
-
-<div align="center">
-  <img src="https://skyline.github.com/muhammadibrohimovDEV/2024.png" alt="GitHub Skyline" />
-</div>
-
 ---
 
 ### 🎮 Fun Fact:
