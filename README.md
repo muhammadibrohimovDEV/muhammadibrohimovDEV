@@ -15,7 +15,7 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![GitHub](https://static-00.iconduck.com/assets.00/github-icon-512x512-bgdhvgjm.png)](https://github.com/muhammadibrohimovDEV)
+[![Telegram]([https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://e7.pngegg.com/pngimages/804/738/png-clipart-telegram-logo-scalable-graphics-computer-software-icon-telegram-white-and-blue-logo-miscellaneous-blue.png))](https://t.me/miuceo)
 
 ---
 
