@@ -15,7 +15,7 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![Telegram](https://img.freepik.com/premium-vector/telegram-icon_488108-1.jpg)](https://t.me/miuceo)
+[![Telegram](https://telegram.org/img/t_logo_sprite.svg)](https://t.me/miuceo)
 
 ---
 
