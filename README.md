@@ -12,7 +12,7 @@
 🔹 Love building cool projects & exploring new technologies  
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/muhammadibrohimovDEV)
 
 ---
