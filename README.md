@@ -15,7 +15,7 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![Telegram](https://telegram.org/img/t_logo_sprite.svg)](https://t.me/miuceo)
+[![Telegram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pinterest.com%2Fpin%2F783767141427371615%2F&psig=AOvVaw3GrVV8ZVQV1UKTEnNk0Rm6&ust=1741864008076000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCqnZ6zhIwDFQAAAAAdAAAAABAp)](https://t.me/miuceo)
 
 ---
 
