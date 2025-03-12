@@ -15,7 +15,7 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![GitHub](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png)(https://github.com/muhammadibrohimovDEV)
+[![GitHub](https://pngimg.com/uploads/github/github_PNG85.png)(https://github.com/muhammadibrohimovDEV)
 
 ---
 
