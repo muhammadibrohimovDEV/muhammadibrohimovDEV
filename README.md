@@ -1,29 +1,59 @@
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
-<h1 align="center">Hi 👋, I'm Muhammadjon Ibrohimov</h1>
-<h3 align="center">A passionate Data Scientist and AI Engineer from Uzbekistan 🇺🇿</h3>
+### Hi there, I'm Muhammadjon Ibrohimov! 👋
 
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=muhammadibrohimovDEV&label=Profile%20views&color=0e75b6&style=flat"
-        alt="muhammadibrohimovDEV" /> </p>
+🌍 **From:** Fergana, Uzbekistan  
+🎓 **Education:** Bachelor's in World Economy & International Relations @ IIAU  
+💻 **Tech Stack:** Python, Go, Flask, Django, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, HTML, CSS, Bootstrap
 
--I’m currently working on **None**
+---
 
--I’m currently learning **Data Science , Machine Learning , Golang , FLask and Django**
+### 🚀 About Me:
+🔹 AI Engineer & Developer  
+🔹 Passionate about AI, Data Science, ML, & Deep Learning  
+🔹 Love building cool projects & exploring new technologies  
 
--I’m looking to collaborate on **None** 
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/muhammadibrohimovDEV)
 
--I’m looking for help with **None**
+---
 
--Ask me about **Data Science and Machine Learning  , Golang , Python , Django , Flask**
+### 🛠️ Languages & Tools:
 
-- 📫 How to reach me **muhammadjon.dev.miu@mail.ru**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
 
-<div class="images" style="display: flex; flex-direction: column; gap: 15px; flex-wrap: wrap; align-items: start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadibrohimovDEV&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="muhammadibrohimovDEV" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=onedark" alt="muhammadibrohimovDEV" />
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&locale=en&theme=radical"
-        alt="muhammadibrohimovDEV" />
-</div>
+### 📈 GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimovDEV&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=darkhub&column=4)
+
+---
+
+### 🔥 GitHub Skyline:
+
+[![Skyline](https://skyline.github.com/muhammadibrohimovDEV/2024.png)](https://skyline.github.com/muhammadibrohimovDEV/2024)
+
+---
+
+### 🎮 Fun Fact:
+If I'm not coding, I'm probably exploring new AI models or watching tech talks! 😃
