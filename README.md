@@ -15,7 +15,7 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![GitHub](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg)](https://github.com/muhammadibrohimovDEV)
+[![GitHub]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-github-pages-random-icons-1240174%2F&psig=AOvVaw3FYrCGDIadGNFr0Q8WW66S&ust=1741863319499000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjg8dSwhIwDFQAAAAAdAAAAABAE))](https://github.com/muhammadibrohimovDEV)
 
 ---
 
