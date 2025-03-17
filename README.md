@@ -1,4 +1,4 @@
-### Hi, I'm Muhammadjon Ibrohimov! 👋
+Hi, I'm Muhammadjon Ibrohimov! 👋
 
 🌍 **From:** Fergana, Uzbekistan  
 🎓 **Education:** Bachelor's @ IIAU  
@@ -12,10 +12,8 @@
 🔹 Love building projects & exploring new tech  
 
 📩 **Connect:**  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg)](https://t.me/miuceo)
-[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://instagram.com/your_instagram)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/muhammadibrohimovDEV)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)  
+✉️ **Gmail:** [your-email@gmail.com](mailto:your-email@gmail.com)  
 
 ---
 
@@ -44,3 +42,4 @@
 
 ### 🎮 Fun Fact:
 If not coding, I'm exploring AI or watching tech talks! 😃
+
