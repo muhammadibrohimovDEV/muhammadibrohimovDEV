@@ -4,7 +4,7 @@
 
 🌍 **From:** Fergana, Uzbekistan  
 🎓 **Education:** Bachelor's in World Economy & International Relations @ IIAU  
-💻 **Tech Stack:** Python, Go, Flask, Django, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, HTML, CSS, Bootstrap
+💻 **Tech Stack:** Python, Go, Flask, Django, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, MySQL, PostgreSQL, HTML, CSS, Bootstrap, Git  
 
 ---
 
@@ -15,34 +15,16 @@
 
 📩 **Connect with me:**  
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-[![Telegram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pinterest.com%2Fpin%2F783767141427371615%2F&psig=AOvVaw3GrVV8ZVQV1UKTEnNk0Rm6&ust=1741864008076000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCqnZ6zhIwDFQAAAAAdAAAAABAp)](https://t.me/miuceo)
+[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg)](https://t.me/miuceo)
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://instagram.com/your_instagram)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/muhammadibrohimovDEV)
 
 ---
 
 ### 🛠️ Languages & Tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=py,go,django,flask,numpy,pandas,scikit-learn,pytorch,html,css,bootstrap,mysql,postgres,git" height="40" alt="tech stack icons" />
 </div>
 
 ---
@@ -62,8 +44,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=darkhub&column=4" alt="GitHub Trophies"  />
 </div>
-
----
 
 ---
 
